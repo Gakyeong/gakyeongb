@@ -1,11 +1,10 @@
 ![](banner.jpg)
 
-|  |  |
-| --- | --- | --- | <a href="https://www.linkedin.com/in/gakyeong-bae">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+
 
 
 🌟 Passionate about Data, Learning, and Tech 🌟</br>
-I love every story. The real story broadens my views to change myself. Dealing with data is like a treasure hunter of stories. I think it is a fascinating job to find hidden stories and their effect on people’s minds. 
+I love every story. The real story broadens my views to change myself. Dealing with data is like a treasure hunter of stories. I think it is a fascinating job to find hidden stories and their effect on people’s minds. Check my <a href="https://www.linkedin.com/in/gakyeong-bae">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 ### 👨‍💻 About Me
 
