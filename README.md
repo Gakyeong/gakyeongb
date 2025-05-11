@@ -1,8 +1,7 @@
 ![](banner.jpg)
 
-|  |  |
 | --- | --- |
-| ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gakyeong.gakyeongb) | <a href="https://www.linkedin.com/in/gakyeong-bae">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 
 
 🌟 Passionate about Data, Learning, and Tech 🌟</br>
